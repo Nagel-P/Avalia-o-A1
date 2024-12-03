@@ -1,0 +1,131 @@
+E:\___weba\A1\back\bin\Debug\net7.0\appsettings.Development.json
+E:\___weba\A1\back\bin\Debug\net7.0\appsettings.json
+E:\___weba\A1\back\bin\Debug\net7.0\GenomaApi.exe
+E:\___weba\A1\back\bin\Debug\net7.0\GenomaApi.deps.json
+E:\___weba\A1\back\bin\Debug\net7.0\GenomaApi.runtimeconfig.json
+E:\___weba\A1\back\bin\Debug\net7.0\GenomaApi.dll
+E:\___weba\A1\back\bin\Debug\net7.0\GenomaApi.pdb
+E:\___weba\A1\back\bin\Debug\net7.0\Google.Protobuf.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Humanizer.dll
+E:\___weba\A1\back\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\___weba\A1\back\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\___weba\A1\back\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\___weba\A1\back\bin\Debug\net7.0\MySql.Data.dll
+E:\___weba\A1\back\bin\Debug\net7.0\ZstdNet.dll
+E:\___weba\A1\back\bin\Debug\net7.0\comerr64.dll
+E:\___weba\A1\back\bin\Debug\net7.0\gssapi64.dll
+E:\___weba\A1\back\bin\Debug\net7.0\k5sprt64.dll
+E:\___weba\A1\back\bin\Debug\net7.0\krb5_64.dll
+E:\___weba\A1\back\bin\Debug\net7.0\krbcc64.dll
+E:\___weba\A1\back\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+E:\___weba\A1\back\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\___weba\A1\back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\___weba\A1\back\bin\Debug\net7.0\System.CodeDom.dll
+E:\___weba\A1\back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\___weba\A1\back\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\___weba\A1\back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\___weba\A1\back\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\___weba\A1\back\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\___weba\A1\back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\___weba\A1\back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\___weba\A1\back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\___weba\A1\back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\___weba\A1\back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.csproj.AssemblyReference.cache
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.AssemblyInfoInputs.cache
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.AssemblyInfo.cs
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.csproj.CoreCompileInputs.cache
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.MvcApplicationPartsAssemblyInfo.cs
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.MvcApplicationPartsAssemblyInfo.cache
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.sourcelink.json
+E:\___weba\A1\back\obj\Debug\net7.0\staticwebassets.build.json
+E:\___weba\A1\back\obj\Debug\net7.0\staticwebassets.development.json
+E:\___weba\A1\back\obj\Debug\net7.0\staticwebassets\msbuild.GenomaApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\___weba\A1\back\obj\Debug\net7.0\staticwebassets\msbuild.build.GenomaApi.props
+E:\___weba\A1\back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GenomaApi.props
+E:\___weba\A1\back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GenomaApi.props
+E:\___weba\A1\back\obj\Debug\net7.0\staticwebassets.pack.json
+E:\___weba\A1\back\obj\Debug\net7.0\scopedcss\bundle\GenomaApi.styles.css
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.csproj.Up2Date
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.dll
+E:\___weba\A1\back\obj\Debug\net7.0\refint\GenomaApi.dll
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.pdb
+E:\___weba\A1\back\obj\Debug\net7.0\GenomaApi.genruntimeconfig.cache
+E:\___weba\A1\back\obj\Debug\net7.0\ref\GenomaApi.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\appsettings.Development.json
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\appsettings.json
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\GenomaApi.exe
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\GenomaApi.deps.json
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\GenomaApi.runtimeconfig.json
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\GenomaApi.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\GenomaApi.pdb
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Google.Protobuf.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Humanizer.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\MySql.Data.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\ZstdNet.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\comerr64.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\gssapi64.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\k5sprt64.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\krb5_64.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\krbcc64.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\System.CodeDom.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.csproj.AssemblyReference.cache
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.AssemblyInfoInputs.cache
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.AssemblyInfo.cs
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.csproj.CoreCompileInputs.cache
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.MvcApplicationPartsAssemblyInfo.cs
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.MvcApplicationPartsAssemblyInfo.cache
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\staticwebassets.build.json
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\staticwebassets.development.json
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\staticwebassets\msbuild.GenomaApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\staticwebassets\msbuild.build.GenomaApi.props
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GenomaApi.props
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GenomaApi.props
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\staticwebassets.pack.json
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\scopedcss\bundle\GenomaApi.styles.css
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.csproj.Up2Date
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\refint\GenomaApi.dll
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.pdb
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\GenomaApi.genruntimeconfig.cache
+D:\bkp\Documents\Geral\PROGRAMACAO\C#\PROVA A1\prj-a1-csharp-react-main\prj-a1-csharp-react-main\back\obj\Debug\net7.0\ref\GenomaApi.dll
